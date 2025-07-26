@@ -1,2 +1,2 @@
 # OIBSIP
-All tasks for Oasis Infobyte Internship Program
+All tasks for Oasis Infobyte Internship Program.
